@@ -1,0 +1,4 @@
+.vscode/
+command_lines.txt
+modules/__pycache__/
+data/QSC/train.tsv
